@@ -28,7 +28,8 @@ $comapny = get_company('name');
         
         <div class="brand">
             
-            <a class="link" href="index.html"><?php echo $comapny ?></a>
+            <!-- <a class="link" href="index.html"><?php echo $comapny ?></a> -->
+            <a class="link" href="index.html">Yahye Travel </a>
         </div>
 <form id="login-form" action="tools/check_login.php" method="post">
             <h2 class="login-title">Log in</h2>
